@@ -1,4 +1,4 @@
-;;; auto-complete-ctags.el ---
+;;; auto-complete-ctags.el --- Auto Completion source for Exuberant ctags
 
 ;; Copyright (C) 2011  whitypig
 
@@ -30,7 +30,7 @@
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;; Customize ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 (defgroup auto-complete-ctags nil
-  "A source for auto-complete-mode usign Exuberant ctags."
+  "A source for auto-complete-mode using Exuberant ctags."
   :prefix "ac-ctags-"
   :group 'convenience)
 
